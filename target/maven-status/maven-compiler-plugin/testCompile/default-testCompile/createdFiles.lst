@@ -1,0 +1,7 @@
+SampleJunitTest/RemoveGreetingTest.class
+SampleJunitTest/ListGreetingsTest.class
+SampleJunitTest/GetGreetingTest.class
+SampleJunitTest/UpdateGreetingTest.class
+SampleJunitTest/common/RandomUuidSupplierTest.class
+SampleJunitTest/model/GreetingModelTest.class
+SampleJunitTest/CreateGreetingTest.class

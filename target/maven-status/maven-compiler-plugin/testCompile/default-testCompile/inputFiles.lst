@@ -1,0 +1,7 @@
+/home/tcs/sampleJunitTest/src/test/java/SampleJunitTest/ListGreetingsTest.java
+/home/tcs/sampleJunitTest/src/test/java/SampleJunitTest/common/RandomUuidSupplierTest.java
+/home/tcs/sampleJunitTest/src/test/java/SampleJunitTest/model/GreetingModelTest.java
+/home/tcs/sampleJunitTest/src/test/java/SampleJunitTest/UpdateGreetingTest.java
+/home/tcs/sampleJunitTest/src/test/java/SampleJunitTest/RemoveGreetingTest.java
+/home/tcs/sampleJunitTest/src/test/java/SampleJunitTest/CreateGreetingTest.java
+/home/tcs/sampleJunitTest/src/test/java/SampleJunitTest/GetGreetingTest.java
